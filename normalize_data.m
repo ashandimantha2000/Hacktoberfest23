@@ -13,3 +13,11 @@ grid on; % Display grid lines
 
 % Normalize the data set
 normalized_data = (data_set - mean(data_set)) / std(data_set);
+
+% Plot the normalized data
+figure;
+plot(normalized_data, 'o-');
+title('Normalized Dataset');
+xlabel('Index');
+ylabel('Normalized Value');
+grid on;
