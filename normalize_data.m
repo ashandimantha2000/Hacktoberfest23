@@ -10,3 +10,6 @@ title('Random Dataset');
 xlabel('Index');
 ylabel('Value');
 grid on; % Display grid lines
+
+% Normalize the data set
+normalized_data = (data_set - mean(data_set)) / std(data_set);
