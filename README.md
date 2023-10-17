@@ -83,7 +83,7 @@ If you have any questions or need assistance issue or if you've got any Better I
 <br>
 You can connect with me here
 
-<a href="http://github.com/Harsh-jot" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" /></a> &nbsp;&nbsp;<a href="https://instagram.com/_.harshjot._" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" /></a> &nbsp;&nbsp;<a href="https://www.linkedin.com/in/harshjot-singh" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" /></a> &nbsp;&nbsp;<a href="https://twitter.com/harshjot1469" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg" /></a>
+<a href="http://github.com/ashandimantha2000" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" /></a> &nbsp;&nbsp;<a href="https://instagram.comashandimanthalk" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" /></a> &nbsp;&nbsp;<a href="https://www.linkedin.com/in/ashandimantha2000" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" /></a> &nbsp;&nbsp;<a href="https://twitter.com/ashandimantha2000" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg" /></a>
 
 <br>
 
