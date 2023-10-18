@@ -1,0 +1,1 @@
+#Create a while loop to print prime numbers from 100 to 0
