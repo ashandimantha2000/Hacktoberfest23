@@ -1,0 +1,11 @@
+D:\Programing\C#\Sri Lanka's left-handed carrom association\PayMedia technical assessment\bin\Debug\PayMedia technical assessment.exe.config
+D:\Programing\C#\Sri Lanka's left-handed carrom association\PayMedia technical assessment\bin\Debug\PayMedia technical assessment.exe
+D:\Programing\C#\Sri Lanka's left-handed carrom association\PayMedia technical assessment\bin\Debug\PayMedia technical assessment.pdb
+D:\Programing\C#\Sri Lanka's left-handed carrom association\PayMedia technical assessment\obj\Debug\PayMedia technical assessment.csproj.AssemblyReference.cache
+D:\Programing\C#\Sri Lanka's left-handed carrom association\PayMedia technical assessment\obj\Debug\PayMedia_technical_assessment.Properties.Resources.resources
+D:\Programing\C#\Sri Lanka's left-handed carrom association\PayMedia technical assessment\obj\Debug\PayMedia technical assessment.csproj.GenerateResource.cache
+D:\Programing\C#\Sri Lanka's left-handed carrom association\PayMedia technical assessment\obj\Debug\PayMedia technical assessment.csproj.CoreCompileInputs.cache
+D:\Programing\C#\Sri Lanka's left-handed carrom association\PayMedia technical assessment\obj\Debug\PayMedia technical assessment.exe
+D:\Programing\C#\Sri Lanka's left-handed carrom association\PayMedia technical assessment\obj\Debug\PayMedia technical assessment.pdb
+D:\Programing\C#\Sri Lanka's left-handed carrom association\PayMedia technical assessment\obj\Debug\PayMedia_technical_assessment.Screen1.resources
+D:\Programing\C#\Sri Lanka's left-handed carrom association\PayMedia technical assessment\obj\Debug\PayMedia_technical_assessment.Screen2.resources
