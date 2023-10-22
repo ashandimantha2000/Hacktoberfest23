@@ -1,0 +1,18 @@
+{
+  "name": "embededbuilder",
+  "version": "1.0.0",
+  "description": "bot to build embeded msgs for discord",
+  "main": "src/index.js",
+  "scripts": {
+    "deploy":"node src/deploy.js",
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dfanso",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "nodemon": "^3.0.1"
+  }
+}
