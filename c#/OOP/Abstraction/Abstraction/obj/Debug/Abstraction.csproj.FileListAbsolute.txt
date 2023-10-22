@@ -1,0 +1,6 @@
+D:\Programing\C#\Abstraction\Abstraction\bin\Debug\Abstraction.exe.config
+D:\Programing\C#\Abstraction\Abstraction\bin\Debug\Abstraction.exe
+D:\Programing\C#\Abstraction\Abstraction\bin\Debug\Abstraction.pdb
+D:\Programing\C#\Abstraction\Abstraction\obj\Debug\Abstraction.csproj.CoreCompileInputs.cache
+D:\Programing\C#\Abstraction\Abstraction\obj\Debug\Abstraction.exe
+D:\Programing\C#\Abstraction\Abstraction\obj\Debug\Abstraction.pdb
