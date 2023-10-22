@@ -1,0 +1,6 @@
+D:\Programing\C#\control structures in CSharp\control structures in CSharp\bin\Debug\control structures in CSharp.exe.config
+D:\Programing\C#\control structures in CSharp\control structures in CSharp\bin\Debug\control structures in CSharp.exe
+D:\Programing\C#\control structures in CSharp\control structures in CSharp\bin\Debug\control structures in CSharp.pdb
+D:\Programing\C#\control structures in CSharp\control structures in CSharp\obj\Debug\control structures in CSharp.csproj.CoreCompileInputs.cache
+D:\Programing\C#\control structures in CSharp\control structures in CSharp\obj\Debug\control structures in CSharp.exe
+D:\Programing\C#\control structures in CSharp\control structures in CSharp\obj\Debug\control structures in CSharp.pdb
