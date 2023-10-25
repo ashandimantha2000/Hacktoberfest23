@@ -1,0 +1,6 @@
+D:\Programing\C#\polymorphism\polymorphism\bin\Debug\polymorphism.exe.config
+D:\Programing\C#\polymorphism\polymorphism\bin\Debug\polymorphism.exe
+D:\Programing\C#\polymorphism\polymorphism\bin\Debug\polymorphism.pdb
+D:\Programing\C#\polymorphism\polymorphism\obj\Debug\polymorphism.csproj.CoreCompileInputs.cache
+D:\Programing\C#\polymorphism\polymorphism\obj\Debug\polymorphism.exe
+D:\Programing\C#\polymorphism\polymorphism\obj\Debug\polymorphism.pdb
